@@ -1,6 +1,6 @@
 - Hi, this is Yunge Li, you can also call me Healy.
-- My bachelor degree of statistics was finished in Ohio State University and I am currently taking 
-my master degree of biostatistics in University of Washington. My github profile includes the course projects and the 
+- My bachelor's degree of statistics was finished in Ohio State University and I am currently taking 
+my master's degree of biostatistics at University of Washington. My github profile includes the course projects and the 
 side projects I've done during my study. Feel free to look through them!
 - You can contact me via my phone number: (614)477-3242, or my email: healy@uw.edu
 
